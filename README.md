@@ -10,6 +10,7 @@
 Archestra automatically calls this MCP server to scan project folders for secrets:
 
 🚨 Found .env file
+
 🚨 API_KEY detected (sk-fake-openai-key...)
 🚨 DATABASE_PASSWORD detected (mypassword123)
 
@@ -59,4 +60,5 @@ Live demo: http://localhost:8000/docs
 See /docs for Swagger
 # Secrets Checker MCP
 Live: http://localhost:8000/docs
+
 
