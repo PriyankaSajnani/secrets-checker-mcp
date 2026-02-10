@@ -38,21 +38,8 @@ Zero dependencies - Production ready
 
 ✅ Handles large folders (os.walk)
 
- ## Quick start 
-Clone
 
-git clone https://github.com/PriyankaSajnani/secrets-checker-mcp.git
-cd secrets-checker-mcp
 
-Install
-
-pip install fastapi uvicorn
-
-Run MCP server
-
-python secrets_checker.py
-
-Test: http://localhost:8000/docs
 
 
 
