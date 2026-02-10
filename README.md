@@ -16,7 +16,7 @@ Archestra automatically calls this MCP server to scan project folders for secret
 🚨 DATABASE_PASSWORD detected (mypassword123)
 
 
- ## 🎯 Tech Stack
+ ##  Tech Stack
 FastAPI - MCP server
 
 Regex patterns - API keys, passwords, tokens
@@ -38,18 +38,22 @@ Zero dependencies - Production ready
 
 ✅ Handles large folders (os.walk)
 
- ## quick start 
+ ## Quick start 
 Clone
+
 git clone https://github.com/PriyankaSajnani/secrets-checker-mcp.git
 cd secrets-checker-mcp
 
-Install (1 dep)
+Install
+
 pip install fastapi uvicorn
 
 Run MCP server
+
 python secrets_checker.py
 
 Test: http://localhost:8000/docs
+
 
 
 
